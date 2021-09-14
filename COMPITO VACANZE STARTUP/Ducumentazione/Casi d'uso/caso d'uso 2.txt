@@ -1,0 +1,8 @@
+Nome: Uscita di un utente 
+	Attori: Utente
+	Sequenza di eventi:
+	***DA MODIFICARE***
+
+		1. L'utente esce nell'attività commerciale
+			1.1 Il sensore d'uscita rileva la presenza dell'utente
+			1.2 Il programma decrementa il contatore dei presenti nel locale

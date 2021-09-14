@@ -1,0 +1,14 @@
+Documento dei Requisiti
+
+Requisiti funzionali:
+	- [MUST] Il sistema deve rilevare l'ingresso di un utente.
+	- [MUST] Il sistema deve rilevare l'uscita di un utente.
+	- [MUST] Il sistema deve tener conto del numero di persone entrate.
+	- [MUST] Il sistema deve decrementare il numero di persone presenti nel caso un utente esca dal locale.
+	
+Requisiti Non-Funzionali:
+	- [SHOUD] Il sistema dovrebbe comunicare all'utente quando può entrare nel locale.
+	
+Requisiti Tecnologici:
+	- [MUST] Linguaggio di programmazione Arduino IDE per il sistema.
+	- [MUST] Sensore di movimento dell'Arduino

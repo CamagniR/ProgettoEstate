@@ -1,0 +1,11 @@
+ELEVATOR PITCH
+
+La CRSystems è una startup che si occupa di progettazione e vendita di software e prodotti. 
+Il prodotto offerto è un rilevatore di persone all'interno di un negozio/locale.
+In questo periodo ove la pandemia ha cambiato il modo di vivere ed approcciarsi risulta essenziale per un negoziante sapere il numero
+di persone all'interno del suo locale per evitare multe in caso di controllo e per rispettare le norme di sicurezza contro il virus.
+La CRSystems offre quindi un prodotto facile da installare che permette sia ai clienti sia al negoziante di sapere il numero di persone all'interno.
+L'istallazione del prodotto verrà eseguita senza impegno dai tecnici della CRSystems che installeranno un piccolo schermo all'entrata del locale 
+per far capire agli utenti se possono entreare o devono aspettare l'uscita di qualche cliente. Un altro schermo verrà posizionato alla cassa
+in modo tale che il personale possa avere sotto controllo l'afflusso di clienti.
+

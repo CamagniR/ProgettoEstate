@@ -1,0 +1,8 @@
+Nome: Entrata di un utente 
+	Attori: Utente
+	Sequenza di eventi:
+	***DA MODIFICARE***
+
+		1. L'utente entra nell'attività commerciale
+			1.1 Il sensore d'entrata rileva la presenza dell'utente
+			1.2 Il programma incrementa il contatore dei presenti nel locale

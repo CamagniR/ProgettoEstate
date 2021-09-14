@@ -1,0 +1,47 @@
+Personas - Negoziante generico
+
+- Dati anagrafici
+   Età: 40 anni
+   Città di residenza: Como e dintorni
+
+- Caratteristiche della personalità
+   Lavoratore felice e instancabile, porta avanti la sua attività nonostante le difficoltà che ha portato la pandemia
+   Nel suo negozio è consentito un entrata massima di 6 persone per via delle limitazioni dovute al Covid-19.
+   
+- Bisogni, emozioni, aspettative
+   Cerca sempre qualche miglioria per il suo negozio. E' molto entusiasta di qualsiasi novità che implementa per migliorare
+   la sua attività commerciale. 
+
+- Stile di vita e capacità
+   Dedica le sue giornata alla sua attività ed è felice nel farlo.
+   
+- Interessi e gusti
+   Gli piace informarsi sulle nuove tecnologie ed è un amante dei gadjet tecnologici che semplificano o ottimizzano la vita di tutti i giorni.
+
+- Hobbies
+   
+	
+	
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Customer Journey Map
+
+- Step: Durante una normale giornata di lavoro è stato contattato dal rappresentante che rifornisce la sua attività di prodotti ed è stato informato 
+	della nostra azianda riguardo al nostro prodotto.
+
+- Obiettivi: Gli sembrava un prodotto utile per migliorare la sua attività e renderla sempre più  tecnologica e all'avanguardia.
+    	    
+- Azioni: Dopo aver analizzato l'acquisto del prodotto ha contattato la nostra azienda la quale ha fornito tutte le informazioni per l'istallazione 
+	  e i costi del prodotto.
+
+- Oggetti: Si necessita di un Computer.
+
+- Persone: Il rappresentante, il servizio di assistenza dell'azienda.
+
+- Emozioni: Subito dopo aver visto l'applicazione, erano curiosi di provarla, perché era un'applicazione che rispondeva a tutte le loro esigenze, 
+	caratteriali e di trasporto. Dopo averla utilizzata per la prima volta, si sono ulteriormente stupiti della sua utilità e dunque, sull'onda
+	di questa esaltazione, l'hanno consigliata a tutti gli amici e compagni di classe.
+  
+- Team: Il Capo e il ViceCapo si sono occupati di promuovere l'applicazione tramite una pubblicità e di pubblicarla sul servizio di distribuzione digitale.
+  	I programmatori hanno sviluppato l'applicazione.
